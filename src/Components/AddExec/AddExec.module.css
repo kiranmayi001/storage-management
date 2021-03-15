@@ -1,0 +1,19 @@
+.Form{
+    width:450px;
+    border:1px solid black;
+    margin-left:100px
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.Gender{
+  width:25px
+}
+
+.AddExec{
+    margin-top: 100px;
+    margin-left: 150px;
+}

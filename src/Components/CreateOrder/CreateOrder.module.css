@@ -1,0 +1,37 @@
+.CreateOrder{
+    width:80%;
+    height:100vh;
+    margin-top: 100px;
+    margin-left:100px;
+box-shadow: 2px 4px 4px grey;}
+
+/* span{
+    width:250px;
+    border:1px solid black
+} */
+
+input{
+    width:400px;
+    height:35px;
+    margin: 25px;
+}
+
+.ProductName{
+    width:350px;
+    height:35px;
+    margin-left: 20px ;
+    margin-right:10
+
+}
+
+.qty{
+    width:5%;
+    height:35px;
+    margin-left: 0;
+}
+
+
+.wrapper{
+    display: flex;
+    box-sizing: border-box;
+}

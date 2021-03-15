@@ -1,0 +1,47 @@
+/* .Inventory{
+    width:85%;
+    height:100%;
+    border:1px solid black;
+    padding-top:500px;
+    margin-left:100px */
+
+/* } */
+
+
+/* .TableHead{
+    border: 1px solid black;
+    margin:25px;
+    width:200px;
+    text-align: left;
+} */
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin-left:0px;
+    margin-top:100px;
+    width: 85%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width:50px;
+    box-sizing: border-box;
+    
+  }
+  tr{
+    padding-top:30px;
+    padding-bottom: 30px;
+    box-shadow: 2px 3px 3px black;
+    border: 10px solid #F6F7FB;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+    
+  }
+
+
+ 

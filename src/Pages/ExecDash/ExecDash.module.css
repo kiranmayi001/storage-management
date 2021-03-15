@@ -1,0 +1,8 @@
+.ExecDash{
+    display: flex;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
